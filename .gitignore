@@ -1,0 +1,10 @@
+# Database
+db/*.db
+db/migrations/*.db
+
+# Dependencies
+node_modules
+
+# Environment
+.env
+.env.test
